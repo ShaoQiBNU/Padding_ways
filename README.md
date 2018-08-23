@@ -1,0 +1,2 @@
+# Padding_ways
+CNN的卷积和pool的padding方式说明
